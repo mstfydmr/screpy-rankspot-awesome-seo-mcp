@@ -258,6 +258,7 @@ Things people keep asking for that nobody has built well yet. Build one and we w
 
 ## Related lists
 
+- [awesome-seo-agent-skills](https://github.com/RankSpotAI/awesome-seo-agent-skills), Agent Skills that teach Claude Code, Codex and Cursor how to do SEO work. Most of them pull their data from a server on this list. Also maintained by us.
 - [sharozdawa/awesome-seo-mcp-servers](https://github.com/sharozdawa/awesome-seo-mcp-servers), a broader list covering MCP servers, agent skills and standalone tools. Useful prior art, and a source we cross-checked against while building this one.
 - [josezuma/awesome-ai-visibility](https://github.com/josezuma/awesome-ai-visibility), GEO and AEO resources, AI crawler datasets and tools.
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers), general purpose MCP directory across all categories.
@@ -267,7 +268,7 @@ Things people keep asking for that nobody has built well yet. Build one and we w
 
 Additions and corrections are welcome, including corrections to entries for tools that compete with RankSpot. See [CONTRIBUTING.md](CONTRIBUTING.md) for what an entry needs.
 
-The short version: the server has to actually exist, actually run, and speak MCP. We do not list roadmap announcements, and we do not list plain REST APIs with no MCP interface.
+The short version: the server has to actually exist, actually run, and speak MCP. We do not list roadmap announcements, and we do not list plain REST APIs with no MCP interface. Agent Skills go in [awesome-seo-agent-skills](https://github.com/RankSpotAI/awesome-seo-agent-skills) instead.
 
 ## License
 

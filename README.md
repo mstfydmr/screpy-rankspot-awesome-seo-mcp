@@ -75,7 +75,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Local Falcon | `https://mcp.localfalcon.com` |
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
-| RankSpot | Generated per account, one click from dashboard settings |
+| RankSpot | `https://mcp.rankspot.ai` |
 
 ## Google Search Console
 

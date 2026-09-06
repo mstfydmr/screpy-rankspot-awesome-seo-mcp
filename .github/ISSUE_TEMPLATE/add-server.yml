@@ -1,0 +1,51 @@
+name: Add or correct a server
+description: Suggest an MCP server, or fix something we got wrong
+labels: ["submission"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Server name
+      placeholder: owner/repo or vendor name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Repo or docs URL
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Remote (hosted URL)
+        - Local (runs on the user's machine)
+    validations:
+      required: true
+  - type: dropdown
+    id: auth
+    attributes:
+      label: Auth
+      options:
+        - None
+        - API key
+        - OAuth
+        - Google OAuth
+        - Paid licence
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What data does it expose?
+      description: One or two lines, plain language.
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: This is my own project

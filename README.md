@@ -259,6 +259,7 @@ Things people keep asking for that nobody has built well yet. Build one and we w
 ## Related lists
 
 - [awesome-seo-agent-skills](https://github.com/RankSpotAI/awesome-seo-agent-skills), Agent Skills that teach Claude Code, Codex and Cursor how to do SEO work. Most of them pull their data from a server on this list. Also maintained by us.
+- [awesome-geo-tools](https://github.com/RankSpotAI/awesome-geo-tools), GEO and AI visibility platforms compared on engines tracked, refresh rate, price and data access. Also maintained by us.
 - [sharozdawa/awesome-seo-mcp-servers](https://github.com/sharozdawa/awesome-seo-mcp-servers), a broader list covering MCP servers, agent skills and standalone tools. Useful prior art, and a source we cross-checked against while building this one.
 - [josezuma/awesome-ai-visibility](https://github.com/josezuma/awesome-ai-visibility), GEO and AEO resources, AI crawler datasets and tools.
 - [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers), general purpose MCP directory across all categories.
